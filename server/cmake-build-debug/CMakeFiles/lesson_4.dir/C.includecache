@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/Programms/111/High Code/lesson_4/sd_main.c
+stdio.h
+-
+stdlib.h
+-
+unistd.h
+-
+string.h
+-
+winsock2.h
+-
+windows.h
+-
+ws2tcpip.h
+-
+
